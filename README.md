@@ -1,2 +1,2 @@
 [WIP]
-One click solution for simplified setup dedicated servers. 
+One click solution for simplified setup of dedicated servers. 
